@@ -9,6 +9,7 @@ Proposed Roadmap (Open to any changes)
 4. Recursion
 5. Lists
 6. Variants
+7. Concurrency
 
 **Learn Functional Programming**
 **Learn Advanced Pattern Matching**
