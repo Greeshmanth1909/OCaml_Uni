@@ -1,5 +1,5 @@
 # OCaml_Uni
-An OCaml interactive course in the style of Boot.dev that gamifies learning the best kind of programming, fucntional.
+An OCaml interactive course in the style of Boot.dev that gamifies learning the best kind of programming, functional.
 
 Proposed Roadmap (Open to any changes)
 **Learn OCaml**
@@ -7,7 +7,8 @@ Proposed Roadmap (Open to any changes)
 2. Functions
 3. Pattern Matching
 4. Recursion
-5. Variants
+5. Lists
+6. Variants
 
 **Learn Functional Programming**
 **Learn Advanced Pattern Matching**
